@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/imaguila.jpg" width="180"r">Isabel M. del Águila</h1>
+  <img src="assets/imaguila.jpeg" width="180"r">Isabel M. del Águila</h1>
 
 <p align="center">
   <strong>Professor · Profesora Titular de Universidad</strong><br>
