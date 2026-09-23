@@ -37,46 +37,25 @@ problemas complejos.
 - Requirements Engineering . Ingeniería de requisitos
 ---
 
-##  Research projects · Proyectos de investigación
+## Research Topics · Temas de investigación
 
-### Project name · Nombre del proyecto
+### Next Release Problem (NRP) · Problema de la siguiente versión
 
-Brief description of the project and my involvement.
+A major focus of my research is the improvement of Requirements Engineering
+processes, particularly the **Next Release Problem (NRP)**.
 
-Breve descripción del proyecto y de mi participación.
+My work explores the application of Artificial Intelligence and intelligent
+techniques to support decision-making in requirements selection and
+prioritization.
 
-**Resources · Recursos**
+Una de mis principales líneas de investigación es la mejora de los procesos
+de Ingeniería de Requisitos, particularmente el **problema de la siguiente
+versión (Next Release Problem, NRP)**.
 
-- URL
-  
----
+Mi trabajo estudia la aplicación de Inteligencia Artificial y técnicas
+inteligentes para apoyar la toma de decisiones en la selección y priorización
+de requisitos.
 
-##  Research Topics · Temas de trabajo
-
-La mejora de los procesos de la Ingeniería del Requisitos y en concreto 
-el problema de la siguiente versión (NRP)  han sido mi objetivo principal de investigación centradome en la aplicación de tecnicas inteligentes a esta área.
-
-
-**Resources · Recursos**
-
-- URL
-- URL
-- URL
-
-
-
----
-##  Software & Research Resources · Software y recursos
-
-### URL
-
-Short description of the software, tool, dataset or research resource.
-
-Breve descripción del software, herramienta, dataset o recurso de investigación.
-
-### URL
-
-Short description · Breve descripción.
 
 ---
 
@@ -90,19 +69,109 @@ Para consultar la lista completa y actualizada de publicaciones:
 -  **Brújula UAL:** https://brujula.ual.es/authors/8.html
 -  **Google Scholar:** https://scholar.google.es/citations?user=7x1-0GsAAAAJ&hl=es
 
-Selected publications associated with software or research resources available
-on GitHub may also be linked directly from their corresponding repositories.
 
 ---
 
+
+##  Research projects · Proyectos de investigación
+
+### Project name · Nombre del proyecto
+
+Brief description of the project and my involvement.
+
+Breve descripción del proyecto y de mi participación.
+
+**Resources · Recursos**
+
+- URL
+  
+
+##  Datasets · Conjuntos de datos
+
+Research datasets associated with my work on Requirements Engineering and
+the Next Release Problem (NRP) are openly available through Zenodo.
+
+Los conjuntos de datos asociados a mi investigación en Ingeniería de Requisitos
+y el problema de la siguiente versión (NRP) están disponibles públicamente
+a través de Zenodo.
+
+### Nombre del dataset 1
+
+Brief description of what the dataset contains and its purpose.
+
+Breve descripción del contenido del conjunto de datos y su finalidad.
+
+**Related to · Relacionado con:** Next Release Problem (NRP)
+
+-  **Dataset:** URL-DEL-DATASET
+-  **DOI:** https://doi.org/10.5281/zenodo.XXXXXXX
+-  **Related paper · Artículo relacionado:** URL
+
+---
+
+### Nombre del dataset 2
+
+Brief description.
+
+Breve descripción.
+
+**Related to · Relacionado con:** Next Release Problem (NRP)
+
+-  **Dataset:** URL-DEL-DATASET
+-  **DOI:** https://doi.org/10.5281/zenodo.XXXXXXX
+-  **Related paper · Artículo relacionado:** URL
+
+---
+
+
+
+## 💻 Research Software & Applications · Software y aplicaciones
+
+Interactive applications and research software developed as part of my
+research activities.
+
+Aplicaciones interactivas y software desarrollados como parte de mi actividad
+investigadora.
+
+### Application name
+
+Brief description of the application and its relationship with the NRP.
+
+Breve descripción de la aplicación y su relación con el NRP.
+
+- 🚀 **Live application · Aplicación:** URL-STREAMLIT
+- 💻 **Source code · Código fuente:** URL-GITHUB
+- 📊 **Dataset:** URL-ZENODO
+- 📄 **Related paper · Artículo relacionado:** URL-PAPER
+
+---
+
+### Application name 2
+
+Brief description.
+
+Breve descripción.
+
+- 🚀 **Live application · Aplicación:** URL-STREAMLIT
+- 💻 **Source code · Código fuente:** URL-GITHUB
+
+---
+
+
+
 ##  Teaching Publications · Publicaciones docentes
 
+
+
+---
 
 ##  Links · Enlaces
 
 -  Teaching . Docencia: [Link](https://www.ual.es/persona/505553505553554867)
 
 ---
+
+
 
 <sub>
 This repository serves as an entry point to my research activity and research
