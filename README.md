@@ -72,10 +72,8 @@ Para consultar la lista completa y actualizada de publicaciones:
 
 
 ---
-  
 
 ##  Datasets · Conjuntos de datos
-
 
 ### Replication Package Operationalization of equity through quantitative analysis of stakeholder salience
 The dataset provides the experimental data used to evaluate the proposed operationalization method for identifying stakeholder salience based on three core attributes: Urgency (`urg`), Legitimacy (`leg`), and Power (`pow`). 
@@ -94,7 +92,7 @@ The source metrics are derived from the original RALIC project dataset, which is
 
 -  **Dataset:** ParetoFronts
 -  **DOI:** [10.5281/zenodo.21626995](https://doi.org/10.5281/zenodo.21626995)
--  **Related paper · Artículo relacionado:** From Pareto Fronts to Decision Spaces: A Method-Agnostic Workflow for Post-Optimization Decision Support in the Next Release Problem
+-  **Related paper · Artículo relacionado:** From Pareto Fronts to Decision Spaces: A Method-Agnostic Workflow for Post-Optimization Decision Support in the Next Release Problem. IEEE Access 2026. EarlyAccess, https://doi.org/10.1109/ACCESS.2026.3736132
 -  **Deployed app** [link](https://anrpdecision.streamlit.app/)
 
 ---
@@ -109,20 +107,19 @@ Aplicaciones interactivas y software desarrollados como parte de mi actividad in
 
 ### Pareto Front Analysis
 
-Brief description of the application and its relationship with the NRP.
+-  **Live application · Aplicación:** [link](https://anrpdecision.streamlit.app/)
+-  **Related paper · Artículo relacionado:** From Pareto Fronts to Decision Spaces: A Method-Agnostic Workflow for Post-Optimization Decision Support in the Next Release Problem. IEEE Access 2026. EarlyAccess, https://doi.org/10.1109/ACCESS.2026.3736132
 
-Breve descripción de la aplicación y su relación con el NRP.
-
--  **Live application · Aplicación:** URL-STREAMLIT
-- 📄 **Related paper · Artículo relacionado:** URL-PAPER
 
 ---
 
 ### NRP-Exp
 
--  **Live application · Aplicación:** URL-STREAMLIT
--  **Source code · Código fuente:** URL-GITHUB
+-  **Live application · Aplicación:** [link](https://nrpexperimentframework-nuwdjbrgrcwq3qzhbg2a6d.streamlit.app/)
+-  **Source code · Código fuente:** [link](https://github.com/imaguila/NRPExperimentFramework)
+-  **Related paper · Artículo relacionado:** **OpenWorking Paper** NRP-Exp: An Integrated Framework for Reproducible Experiment Management in Multi-Objective Release Planning
 
+    
 ---
 
 
