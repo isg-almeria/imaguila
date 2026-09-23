@@ -65,25 +65,13 @@ For a complete and up-to-date list of my publications:
 
 Para consultar la lista completa y actualizada de publicaciones:
 
-- **ORCID:**[0000-0001-9896-7196](https://orcid.org/my-orcid?orcid=0000-0001-9896-7196)
+- **ORCID:** [0000-0001-9896-7196](https://orcid.org/my-orcid?orcid=0000-0001-9896-7196)
 -  **Brújula UAL:** https://brujula.ual.es/authors/8.html
 -  **Google Scholar:** https://scholar.google.es/citations?user=7x1-0GsAAAAJ&hl=es
+-  **Scopus**
 
 
 ---
-
-
-##  Research projects · Proyectos de investigación
-
-### Project name · Nombre del proyecto
-
-Brief description of the project and my involvement.
-
-Breve descripción del proyecto y de mi participación.
-
-**Resources · Recursos**
-
-- URL
   
 
 ##  Datasets · Conjuntos de datos
@@ -102,54 +90,40 @@ The source metrics are derived from the original RALIC project dataset, which is
 
 ---
 
-### Nombre del dataset 2
+### Reproducibility package for: From Pareto Fronts to Decision Spaces
 
-Brief description.
-
-Breve descripción.
-
-**Related to · Relacionado con:** Next Release Problem (NRP)
-
--  **Dataset:** URL-DEL-DATASET
--  **DOI:** https://doi.org/10.5281/zenodo.XXXXXXX
--  **Related paper · Artículo relacionado:** URL
+-  **Dataset:** ParetoFronts
+-  **DOI:** [10.5281/zenodo.21626995](https://doi.org/10.5281/zenodo.21626995)
+-  **Related paper · Artículo relacionado:** From Pareto Fronts to Decision Spaces: A Method-Agnostic Workflow for Post-Optimization Decision Support in the Next Release Problem
+-  **Deployed app** [link](https://anrpdecision.streamlit.app/)
 
 ---
 
 
 
-## 💻 Research Software & Applications · Software y aplicaciones
+## Research Software & Applications · Software y aplicaciones
 
-Interactive applications and research software developed as part of my
-research activities.
+Interactive applications and research software developed as part of my research activities.
 
-Aplicaciones interactivas y software desarrollados como parte de mi actividad
-investigadora.
+Aplicaciones interactivas y software desarrollados como parte de mi actividad investigadora.
 
-### Application name
+### Pareto Front Analysis
 
 Brief description of the application and its relationship with the NRP.
 
 Breve descripción de la aplicación y su relación con el NRP.
 
-- 🚀 **Live application · Aplicación:** URL-STREAMLIT
-- 💻 **Source code · Código fuente:** URL-GITHUB
-- 📊 **Dataset:** URL-ZENODO
+-  **Live application · Aplicación:** URL-STREAMLIT
 - 📄 **Related paper · Artículo relacionado:** URL-PAPER
 
 ---
 
-### Application name 2
+### NRP-Exp
 
-Brief description.
-
-Breve descripción.
-
-- 🚀 **Live application · Aplicación:** URL-STREAMLIT
-- 💻 **Source code · Código fuente:** URL-GITHUB
+-  **Live application · Aplicación:** URL-STREAMLIT
+-  **Source code · Código fuente:** URL-GITHUB
 
 ---
-
 
 
 ##  Teaching Publications · Publicaciones docentes
