@@ -1,8 +1,11 @@
-# Isabel M. del Águila
+<p align="center">
+  <img src="assets/imaguila.jpg" width="180"r">Isabel M. del Águila</h1>
 
-**Professor · Profesora Titular de Universidad**  
-Information Systems Research Group · Grupo de Investigación en Sistemas de Información  
-University of Almería · Universidad de Almería, Spain
+<p align="center">
+  <strong>Professor · Profesora Titular de Universidad</strong><br>
+  Information Systems Research Group · Grupo de Investigación en Sistemas de Información<br>
+  University of Almería · Universidad de Almería
+</p>
 
 ---
 
@@ -30,7 +33,7 @@ problemas complejos.
 - Software Engineering · Ingeniería del Software
 - Artificial Intelligence · Inteligencia Artificial
 - Decision Support Systems · Sistemas de apoyo a la decisión
-
+- Requirements Engineering . Ingeniería de requisitos
 ---
 
 ##  Research projects · Proyectos de investigación
@@ -44,22 +47,24 @@ Breve descripción del proyecto y de mi participación.
 **Resources · Recursos**
 
 - URL
-- URL
-- URL
-
+  
 ---
 
-### Another project · Otro proyecto
+##  Research Topics · Temas de trabajo
 
-Brief description.
+La mejora de los procesos de la Ingeniería del Requisitos y en concreto 
+el problema de la siguiente versión (NRP)  han sido mi objetivo principal de investigación centradome en la aplicación de tecnicas inteligentes a esta área.
 
-Breve descripción.
+
+**Resources · Recursos**
 
 - URL
 - URL
+- URL
+
+
 
 ---
-
 ##  Software & Research Resources · Software y recursos
 
 ### URL
@@ -80,7 +85,7 @@ For a complete and up-to-date list of my publications:
 
 Para consultar la lista completa y actualizada de publicaciones:
 
-- **ORCID:** URL
+- **ORCID:**[0000-0001-9896-7196](https://orcid.org/my-orcid?orcid=0000-0001-9896-7196)
 -  **Brújula UAL:** https://brujula.ual.es/authors/8.html
 -  **Google Scholar:** https://scholar.google.es/citations?user=7x1-0GsAAAAJ&hl=es
 
@@ -89,14 +94,12 @@ on GitHub may also be linked directly from their corresponding repositories.
 
 ---
 
-## 🔗 Links · Enlaces
+##  Teaching Publications · Publicaciones docentes
 
-- 🏛️ URL
-- 🔬 URL
-- 🆔 URL
-- 🎓 URL
-- 💻 URL
-- 🌐 URL
+
+##  Links · Enlaces
+
+-  Teaching . Docencia: [Link](https://www.ual.es/persona/505553505553554867)
 
 ---
 
