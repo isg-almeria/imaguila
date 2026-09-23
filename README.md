@@ -4,7 +4,7 @@
 <p align="center">
   <strong>Professor · Profesora Titular de Universidad</strong><br>
   Information Systems Research Group · Grupo de Investigación en Sistemas de Información<br>
-  University of Almería · Universidad de Almería
+  University of Almería · Universidad de Almería<br>
   imaguila@ual.es
 </p>
 
