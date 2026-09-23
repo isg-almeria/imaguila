@@ -88,24 +88,17 @@ Breve descripción del proyecto y de mi participación.
 
 ##  Datasets · Conjuntos de datos
 
-Research datasets associated with my work on Requirements Engineering and
-the Next Release Problem (NRP) are openly available through Zenodo.
 
-Los conjuntos de datos asociados a mi investigación en Ingeniería de Requisitos
-y el problema de la siguiente versión (NRP) están disponibles públicamente
-a través de Zenodo.
+### Replication Package Operationalization of equity through quantitative analysis of stakeholder salience
+The dataset provides the experimental data used to evaluate the proposed operationalization method for identifying stakeholder salience based on three core attributes: Urgency (`urg`), Legitimacy (`leg`), and Power (`pow`). 
 
-### Nombre del dataset 1
-
-Brief description of what the dataset contains and its purpose.
-
-Breve descripción del contenido del conjunto de datos y su finalidad.
+The source metrics are derived from the original RALIC project dataset, which is publicly available at [Sooling Lim's Dataset Repository](https://soolinglim.com/Datasets.html). To evaluate effectiveness in maintaining equality and diversity, the arrangement model is systematically evaluated by mapping these stakeholder attributes into two and three intervals per dimension, producing distinct stakeholder subgroups.
 
 **Related to · Relacionado con:** Next Release Problem (NRP)
 
--  **Dataset:** URL-DEL-DATASET
--  **DOI:** https://doi.org/10.5281/zenodo.XXXXXXX
--  **Related paper · Artículo relacionado:** URL
+-  **Dataset:** Stakeholders Salience data
+-  **DOI:** [10.5281/zenodo.21333891](https://doi.org/10.5281/zenodo.21333891)
+-  [**Related paper · Artículo relacionado:**](https://www.mdpi.com/2674-113X/5/3/34)
 
 ---
 
