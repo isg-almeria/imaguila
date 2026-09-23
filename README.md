@@ -125,10 +125,74 @@ Aplicaciones interactivas y software desarrollados como parte de mi actividad in
 
 ##  Teaching Publications · Publicaciones docentes
 
+[Publicaciones docentes](https://editorial.ual.es/autor/isabel-maria-del-aguila-cano)
 
+- [Programación en Python: Estadística a través de problemas resueltos](https://editorial.ual.es/libro/programacion-en-python-estadistica-a-traves-de-problemas-resueltos_195097/)
+- [Lecciones de Programación en C para estudiantes de ingeniería](https://editorial.ual.es/libro/lecciones-de-programacion-en-c-para-estudiantes-de-ingenieria_195410/)
+- [Fundamentos de Ingeniería de los Requisitos](https://editorial.ual.es/libro/fundamentos-de-ingenieria-de-los-requisitos_194465/)
+- [Ejercicios de programación. Cuaderno 1. Programación estructurada](https://editorial.ual.es/libro/ejercicios-de-programacion-cuaderno-1-programacion-estructurada_194604/)
+- [Ingeniería de Requisitos](https://editorial.ual.es/libro/ingenieria-de-requisitos_195586/)
 
 ---
 
+## Working Paper· Trabajos enviados pendientes de revisión
+
+### From Requirements to Runtime: Evaluating Large Language Models as Strategic Assistants for Agile Product Owners
+Large Language Models (LLMs) have catalyzed a paradigm shift in Software Engineering (SE);
+however, their empirical evaluation remains predominantly confined to developer-centric, static code generation
+tasks. The socio-technical potential of LLMs to augment Agile project management—specifically the
+Product Owner (PO) role, which is tasked with mediating the conflicting demands of business stakeholders
+and technical development teams—remains critically underexplored.
+ This study addresses this gap by evaluating the capacity of advanced models to act as
+strategic, consultative co-pilots for Agile Product Owners.
+We introduced a structured, five-phase LLM Chat Analysis Methodology, complemented with
+a novel Dynamic Prototype Evaluation Protocol. We empirically assessed four leading LLMs (ChatGPT,
+Copilot, DeepSeek, and Gemini) using a standardized conversational protocol across four highly diverse
+Software Engineering case studies.
+The evaluation revealed distinct operational personas: ChatGPT and Copilot excel at generating
+end-to-end “Walking Skeleton” prototypes that facilitate rapid stakeholder validation, whereas DeepSeek
+demonstrates superior architectural rigor in enforcing non-functional constraints to shield the development
+team. Crucially, dynamic runtime executions exposed a pervasive risk of “silent” technical debt—such as
+severe Application Programming Interface misconfigurations and the models’ collective failure to apply exactprecision
+data types for financial transactions —highlighting a profound gap between syntactical validity
+and runtime resilience.
+ While LLMs cannot operate autonomously as system architects, they fundamentally
+empower the Product Owner to accelerate agile value delivery and mitigate early integration risks. To safely
+leverage these tools, the PO must evolve into a new operational mandate as an active Artificial Intelligence
+auditor.
+
+- [Open link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6806069)
+- Reproducibility package: [Repos-Links](https://github.com/ual-SE-LAB/)
+- Under Review
+
+### Evidence-based stakeholder identification and conflict management in a requirements prioritisation context]{Evidence-based stakeholder identification and conflict management in a requirements prioritisation context
+
+Traditional approaches to stakeholder identification rely on manual
+selection by practitioners, relying heavily on tacit knowledge rather than automated
+methods. However, as software projects become more global, there is a
+growing need for automated approaches to analyse information from stakeholder
+recommendation networks. We aim to identify key stakeholders based on the
+aggregation of recommendations expressed in terms of salience. Each recommender
+(assumed to be equally reliable) indicates the influence of stakeholders
+by assigning a subjective numerical value.
+The proposal is based on Evidence Theory, which employs combination
+rules to reach a consensus by aggregating the collected subjective
+salience values. This approach allows for the management of conflicts during the
+identification process.
+In the analysed case, we found that the lower the level of conflict,
+the higher the level of consensus, leading to a greater reduction in the number
+of identified key stakeholders. We also investigated the impact of the proposed
+method on the requirements prioritisation task, concluding that the method used
+to express stakeholder preferences significantly affects the results.
+Our methodology provides a decision-making mechanism that
+facilitates stakeholder identification based on multiple subjective opinions. It
+delivers quantitative results while reaching a consensus, offering a novel and
+useful approach for automatically identifying key stakeholders.
+
+
+- Reproducibility package: [Link](https://github.com/imaguila/Replication_Package_evidence-based_stakeholder_identification)
+
+---
 ##  Links · Enlaces
 
 -  Teaching . Docencia: [Link](https://www.ual.es/persona/505553505553554867)
