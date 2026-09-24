@@ -37,7 +37,7 @@ problemas complejos.
 - Requirements Engineering . Ingeniería de requisitos
 ---
 
-## Research Topics · Temas de investigación
+##  Topics · Temas de trabajo
 
 ### Next Release Problem (NRP) · Problema de la siguiente versión
 
