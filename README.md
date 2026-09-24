@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="assets/imaguila.jpeg" width="180"r"> 
-<p align="center">
+  <img src="assets/imaguila.jpeg" width="180"r">
   <h1><strong>Isabel M. del Águila Cano</strong></h1>
+</p>
+<p align="center">  
   <strong>Professor · Profesora Titular de Universidad</strong><br>
   Information Systems Research Group · Grupo de Investigación en Sistemas de Información<br>
   University of Almería · Universidad de Almería<br>
   imaguila@ual.es
 </p>
+
 
 ---
 
