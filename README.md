@@ -128,7 +128,8 @@ Aplicaciones interactivas y software desarrollados como parte de mi actividad in
 -  **Source code · Código fuente:** [link](https://github.com/imaguila/NRPExperimentFramework)
 -  **Related paper · Artículo relacionado:** **OpenWorking Paper** NRP-Exp: An Integrated Framework for Reproducible Experiment Management in Multi-Objective Release Planning
 
-    
+
+
 ---
 
 
@@ -205,6 +206,16 @@ useful approach for automatically identifying key stakeholders.
 ##  Links · Enlaces
 
 -  Teaching . Docencia: [Link](https://www.ual.es/persona/505553505553554867)
+
+### Recursos Docentes
+
+#### Juegos Serios para el aprendizaje de la ingeniería del software
+
+- **Web Page · Página Web:**[link](https://imaguila.github.io/RepositorioJuegosInSo/)
+- [**github link**](https://github.com/imaguila/RepositorioJuegosInSo)
+    
+####  Problemas de programacion
+- **link**(https://github.com/MaterialesProgramacion/ProblemasProgramacion)
 
 ---
 
