@@ -72,9 +72,9 @@ Para consultar la lista completa y actualizada de publicaciones:
 - **ORCID:** [0000-0001-9896-7196](https://orcid.org/0000-0001-9896-7196)
 - [**Google Scholar:**](https://scholar.google.es/citations?user=7x1-0GsAAAAJ&hl=es)
 - **Scopus:** [56575686500](https://www.scopus.com/authid/detail.uri?authorId=56575686500))
-- **Web of Science / ResearcherID:** [Perfil / Profile Link](https://www.webofscience.com/)
+- **Web of Science / ResearcherID:** [A-9740-2015]((https://www.webofscience.com/wos/author/record/A-9740-2015)
 - [**LinkedID:**](https://www.linkedin.com/in/isabel-mar%C3%ADa-del-%C3%A1guila-cano-728004152/)
-- **ResearchGate:** [Perfil / Profile Link](https://www.researchgate.net/)
+- **ResearchGate:** [Link](https://www.researchgate.net/profile/Isabel-Aguila)
 - **GitHub** [imaguila](https://github.com/imaguila)
 - [**Zenodo**](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22del%20%C3%81guila%20Cano%2C%20Isabel%20Mar%C3%ADa%22&l=list&p=1&s=10&sort=bestmatch)
 
