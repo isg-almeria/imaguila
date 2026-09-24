@@ -68,15 +68,15 @@ Para consultar la lista completa y actualizada de publicaciones:
 
 ## Publications & Profiles · Publicaciones y perfiles
 
-- **Portal institucional / Brújula:** [Link](https://brujula.ual.es/authors/8.html)
+- **Portal institucional** [Brújula](https://brujula.ual.es/authors/8.html)
 - **ORCID:** [0000-0001-9896-7196](https://orcid.org/0000-0001-9896-7196)
-- **Google Scholar:** [Link](https://scholar.google.es/citations?user=7x1-0GsAAAAJ&hl=es)
+- [**Google Scholar:**](https://scholar.google.es/citations?user=7x1-0GsAAAAJ&hl=es)
 - **Scopus:** [56575686500](https://www.scopus.com/authid/detail.uri?authorId=56575686500))
 - **Web of Science / ResearcherID:** [Perfil / Profile Link](https://www.webofscience.com/)
 - [**LinkedID:**](https://www.linkedin.com/in/isabel-mar%C3%ADa-del-%C3%A1guila-cano-728004152/)
 - **ResearchGate:** [Perfil / Profile Link](https://www.researchgate.net/)
 - **GitHub** [imaguila](https://github.com/imaguila)
-- **Zenodo:** [datasets](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22del%20%C3%81guila%20Cano%2C%20Isabel%20Mar%C3%ADa%22&l=list&p=1&s=10&sort=bestmatch)
+- [**Zenodo**](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22del%20%C3%81guila%20Cano%2C%20Isabel%20Mar%C3%ADa%22&l=list&p=1&s=10&sort=bestmatch)
 
 ---
 
